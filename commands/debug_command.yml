@@ -1,0 +1,10 @@
+<!-- 
+About dbt debug command
+dbt debug is a utility function to test the database connection and display information for debugging purposes, such as the validity of your project file and your installation of any requisite dependencies (like git when you run dbt deps).
+
+*Note: Not to be confused with debug-level logging via the --debug option which increases verbosity. -->
+
+dbt debug --connection
+<!-- Show the configured location for the profiles.yml file and exit: --> -->
+
+dbt debug --config-dir
