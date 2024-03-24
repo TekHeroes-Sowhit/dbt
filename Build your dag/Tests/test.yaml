@@ -1,0 +1,12 @@
+
+version: 2
+sources:
+  - name: jaffle_shop
+    database:
+    schema:
+    tables:
+      - name:
+      - name:
+  - name: stripe
+    tables:
+      - name:
